@@ -5,11 +5,11 @@ This code example generates a square wave using the PWM driver. An LED connected
 
 [View this README on GitHub.](https://github.com/Infineon/mtb-example-ce240763-pwm-square-wave)
 
-[Provide feedback on this code example.](https://cypress.co1.qualtrics.com/jfe/form/SV_1NTns53sK2yiljn?Q_EED=eyJVbmlxdWUgRG9jIElkIjoiQ0UyNDA3NjMiLCJTcGVjIE51bWJlciI6IjAwMi00MDc2MyIsIkRvYyBUaXRsZSI6IlBETDogUFdNIHNxdWFyZSB3YXZlIiwicmlkIjoia29qbSIsIkRvYyB2ZXJzaW9uIjoiMS4wLjAiLCJEb2MgTGFuZ3VhZ2UiOiJFbmdsaXNoIiwiRG9jIERpdmlzaW9uIjoiTUNEIiwiRG9jIEJVIjoiQVVUTyIsIkRvYyBGYW1pbHkiOiJBVVRPIE1DVSJ9)
+[Provide feedback on this code example.](https://cypress.co1.qualtrics.com/jfe/form/SV_1NTns53sK2yiljn?Q_EED=eyJVbmlxdWUgRG9jIElkIjoiQ0UyNDA3NjMiLCJTcGVjIE51bWJlciI6IjAwMi00MDc2MyIsIkRvYyBUaXRsZSI6IlBETDogUFdNIHNxdWFyZSB3YXZlIiwicmlkIjoia29qbSIsIkRvYyB2ZXJzaW9uIjoiMi4wLjAiLCJEb2MgTGFuZ3VhZ2UiOiJFbmdsaXNoIiwiRG9jIERpdmlzaW9uIjoiTUNEIiwiRG9jIEJVIjoiQVVUTyIsIkRvYyBGYW1pbHkiOiJBVVRPIE1DVSJ9)
 
 ## Requirements
 
-- [ModusToolbox&trade;](https://www.infineon.com/modustoolbox) v3.2 or later (tested with v3.2)
+- [ModusToolbox&trade;](https://www.infineon.com/modustoolbox) v3.4 or later (tested with v3.4)
 - Board support package (BSP) minimum required version:
    -  [KIT_T2G_C-2D-6M_LITE](https://www.infineon.com/cms/en/product/evaluation-boards/kit_t2g_c-2d-6m_lite/) – v1.0
 
@@ -274,6 +274,7 @@ Document title: *CE240763* – *PDL: PWM square wave*
 | Version | Description of change |
 | ------- | --------------------- |
 | 1.0.0   | New code example      |
+| 2.0.0   | Updated to support ModusToolbox&trade; software v3.4 |
 <br />
 
 
