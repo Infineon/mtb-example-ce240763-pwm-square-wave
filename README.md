@@ -30,7 +30,7 @@ This code example generates a square wave using the PWM driver. An LED connected
 - [TRAVEO&trade; T2G Body high Lite Kit](https://www.infineon.com/evaluation-board/KIT-T2G-B-H-LITE) (`KIT_T2G-B-H_LITE`)
 - [TRAVEO&trade; T2G Body high Evaluation Kit](https://www.infineon.com/evaluation-board/KIT-T2G-B-H-EVK) (`KIT_T2G-B-H_EVK`)
 - [XMC5200 Evaluation Kit](https://www.infineon.com/evaluation-board/KIT-XMC52-EVK) (`KIT_XMC52_EVK`) 
-- [TRAVEO&trade; T2G Body high 16M Evaluation Kit](https://www.infineon.com/design-resources/finder-selection-tools/evaluation-board) (`KIT_T2G_B-H-16M_LITE`)
+- [TRAVEO&trade; T2G Body high 16M Evaluation Kit](https://www.infineon.com/evaluation-board/KIT-T2G-B-H-16M-LITE) (`KIT_T2G_B-H-16M_LITE`)
 
 
 ## Hardware setup
@@ -285,6 +285,7 @@ Document title: *CE240763* – *PDL: PWM square wave*
 | 2.0.0   | Updated to support ModusToolbox&trade; software v3.4 |
 | 2.1.0   | Added support for KIT_T2G_C-2D-4M_LITE, KIT_T2G-B-H_EVK, KIT_T2G-B-H_LITE and KIT_XMC52_EVK, and updated to support ModusToolbox&trade; v3.7  |
 | 2.2.0   | Added support for KIT_T2G_B-H-16M_LITE and updated to support ModusToolbox&trade; v3.8. |
+| 2.3.0   | Updated the link for TRAVEO T2G Body High 16M Evaluation Kit |
 <br />
 
 
